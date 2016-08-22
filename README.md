@@ -1,7 +1,7 @@
 # Abstract-File-Filter
 ### Project 3 for COP 2228
 
-I really liked this project. The abstract file filter class was simple to make and I never really had any issues. I also included a decryption subclass (might as well if there's an encryption one) that will decipher encrypted files. Nothing extraordinary. Only thing I would have done different was probably make the naming of the file names shorter and maybe add exception handling in places. The problem statement asked for a copy of the original to always be made, so the directory can become cluttered after a few uses. 
+I really liked this project. The abstract file filter class was simple to make and I never really had any issues. I also included a decryption subclass (might as well if there's an encryption one) that will decipher encrypted files. Nothing extraordinary. Only thing I would have done differently was probably make the naming of the file names shorter and maybe add exception handling in places. The problem statement asked for a copy of the original to always be made, so the directory can become cluttered after a few uses. 
 
 Project 3 description:
 
